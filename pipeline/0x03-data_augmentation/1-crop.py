@@ -15,5 +15,5 @@ def crop_image(image, size):
     :param size: tuple containing the size of the crop
     :return: the cropped image
     """
-    img = tf.random_crop(image, size=size)
+    img = tf.image.random_crop(image, size=size)
     return img
