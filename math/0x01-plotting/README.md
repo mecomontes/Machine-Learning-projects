@@ -312,6 +312,6 @@ pca_data = np.matmul(norm_data, Vh[:3].T)
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)
 
 

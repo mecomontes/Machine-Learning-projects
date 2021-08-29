@@ -375,4 +375,4 @@ ubuntu@alexa-ml:~/math/0x04-convolutions_and_pooling$ ./6-main.py
 ```
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

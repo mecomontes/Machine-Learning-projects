@@ -454,5 +454,4 @@ alexa@ubuntu-xenial:0x03-probability$
 ---
 ## Authors
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)

@@ -159,5 +159,5 @@ Based on `3-posterior.py`, write a function `def posterior(x, n, p1, p2):` that 
 ```
 ## Author
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)
 

@@ -178,4 +178,4 @@ Write a function `def definiteness(matrix):` that calculates the definiteness of
 ---
 ## Author
 
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
+* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomontes)
